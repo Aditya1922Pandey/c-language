@@ -16,6 +16,7 @@ int main(){
     //     printf("%d ",z);
     //     z=z+d;
     // }
+    // aditya kumar pandey
     
    
    
